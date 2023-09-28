@@ -2,18 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff14&size=35&center=true&vCenter=true&width=1000&lines=Prazer+em+conhecê-lo,+meu+nome+é+Glauber;Sou+Desenvolvedor+iOS;Bem-vindo+ao+meu+Perfil+do+GitHub!:%29)](https://git.io/typing-svg)
 
+<div align="center"> 
+
+### Github Status:
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glaubergustavo&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=glaubergustavo&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
+ <div align="center"> 
 <a href="https://www.linkedin.com/in/glauber-gustavo-99a692105/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://twitter.com/GlauberGustavoF" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white">
 </a>
-
-  
 
 ### Skills Principais:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
